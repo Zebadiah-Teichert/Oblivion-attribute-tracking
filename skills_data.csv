@@ -1,0 +1,12 @@
+"SkillName","LowValue","HighValue","CurrentLevel","NormalizedMin","NormalizedMax","NormalizedCurrent"
+"Squat",45,300,115,0,100,27
+"Bench",45,225,95,0,100,28
+"Cardio Fitness",20,65,45,0,100,56
+"Deadlift max",45,500,135,0,100,20
+"Clean max",45,225,95,0,100,28
+"Body fat %",20,5,14.7,0,100,35
+"Pullup max",0,100,5,0,100,5
+"Pushup max",0,500,32,0,100,6
+"Wealth",0,1000000,53775,0,100,5
+"5k time",35,15,35,0,100,0
+"Cleanliness",0,100,20,0,100,20
